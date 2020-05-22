@@ -1,0 +1,7 @@
+﻿  HM!.cpp
+C:\Users\Uzair\source\repos\HM!\HM!\HM!.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Uzair\source\repos\HM!\HM!\HM!.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Uzair\source\repos\HM!\HM!\HM!.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Uzair\source\repos\HM!\HM!\HM!.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Uzair\source\repos\HM!\HM!\HM!.cpp(117,20): warning C4018: '<': signed/unsigned mismatch
+  HM!.vcxproj -> C:\Users\Uzair\source\repos\HM!\Debug\HM!.exe
